@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 int mult(){
+  /*
   int num, divisor;
   num = 1;
   divisor = 1;
@@ -17,7 +18,8 @@ int mult(){
     }
     num+=1;
   }
-  return num-1;
+  */
+  return 2*3*4*5*6*7*11*13*17*19;
 }
 
 int main(){
